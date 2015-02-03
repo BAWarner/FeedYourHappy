@@ -1,0 +1,24 @@
+2015-02-02 16:16:09.415 Feed Your Happy[28121:10754216] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/brandon/Library/Developer/CoreSimulator/Devices/C8D5FBA3-CCDE-41F4-AB66-9A8AC5FE76A5/data/Containers/Data/Application/54F6CBC5-A26E-48C5-A535-305033D96552/Library/Cookies/Cookies.binarycookies
+2015-02-02 16:16:09.744 Feed Your Happy[28121:10754216] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-02 16:16:09.745 Feed Your Happy[28121:10754216] Multi-tasking -> Device: YES, App: YES
+2015-02-02 16:16:09.760 Feed Your Happy[28121:10754216] Unlimited access to network resources
+2015-02-02 16:16:09.772 Feed Your Happy[28121:10754216] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-02 16:16:10.578 Feed Your Happy[28121:10754216] [CDVTimer][splashscreen] 230.279982ms
+2015-02-02 16:16:10.578 Feed Your Happy[28121:10754216] [CDVTimer][TotalPluginStartup] 230.535984ms
+2015-02-02 16:16:11.786 Feed Your Happy[28121:10754216] Resetting plugins due to page load.
+2015-02-02 16:16:12.978 Feed Your Happy[28121:10754216] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2015-02-02 16:16:12.981 Feed Your Happy[28121:10754216] Resetting plugins due to page load.
+2015-02-02 16:16:14.505 Feed Your Happy[28121:10754216] Finished load of: file:///Users/brandon/Library/Developer/CoreSimulator/Devices/C8D5FBA3-CCDE-41F4-AB66-9A8AC5FE76A5/data/Containers/Bundle/Application/80CA5AF3-E393-4167-A0EB-3D2BDDFE1F10/Feed%20Your%20Happy.app/www/index.html
+2015-02-02 16:17:06.791 Feed Your Happy[28121:10754216] Resetting plugins due to page load.
+2015-02-02 16:17:08.158 Feed Your Happy[28121:10754216] Finished load of: http://www.feedyourhappy.life/for-busisnesses/
+2015-02-02 16:17:18.582 Feed Your Happy[28121:10754216] Resetting plugins due to page load.
+2015-02-02 16:17:20.830 Feed Your Happy[28121:10754216] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2015-02-02 16:17:20.834 Feed Your Happy[28121:10754216] Resetting plugins due to page load.
+2015-02-02 16:17:22.214 Feed Your Happy[28121:10754216] Finished load of: http://www.feedyourhappy.life/
