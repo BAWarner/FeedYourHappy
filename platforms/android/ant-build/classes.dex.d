@@ -1,6 +1,6 @@
 /Users/brandon/Desktop/FeedHappy/feed-happy/platforms/android/ant-build/classes.dex : \
 /Users/brandon/Desktop/FeedHappy/feed-happy/platforms/android/ant-build/classes/com/rivetal/feedyourhappy/BuildConfig.class \
-/Users/brandon/Desktop/FeedHappy/feed-happy/platforms/android/ant-build/classes/com/rivetal/feedyourhappy/CordovaApp.class \
+/Users/brandon/Desktop/FeedHappy/feed-happy/platforms/android/ant-build/classes/com/rivetal/feedyourhappy/FeedYourHappy.class \
 /Users/brandon/Desktop/FeedHappy/feed-happy/platforms/android/ant-build/classes/com/rivetal/feedyourhappy/R$attr.class \
 /Users/brandon/Desktop/FeedHappy/feed-happy/platforms/android/ant-build/classes/com/rivetal/feedyourhappy/R$drawable.class \
 /Users/brandon/Desktop/FeedHappy/feed-happy/platforms/android/ant-build/classes/com/rivetal/feedyourhappy/R$string.class \
